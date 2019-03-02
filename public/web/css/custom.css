@@ -1,0 +1,24 @@
+header.header-style-3 .navbar li.active a {
+    color: #fff!important;
+    font-size: 14px!important;
+}
+header .navbar li a {
+    font-size: 14px!important;
+}
+
+header.header-style-3 .navbar li a {
+    color: #fff !important;
+    font-weight: 600;
+}
+header{
+    padding: 0px;
+}
+header .container {
+    position: relative;
+    top: 31px;
+}
+header .logo img {
+    z-index: 3;
+    position: relative;
+    bottom: 33px;
+}

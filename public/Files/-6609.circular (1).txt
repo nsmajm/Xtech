@@ -1,0 +1,36 @@
+We are hiring android and web application developers who are eager and comfortable working with current advanced software engineering paradigms.
+
+Job Position: Junior Android Developer
+Requirements for Android Developers are:
+
+* Intermediate skills on Java and Kotlin language   
+* Good idea on third party libraries like Lottie, Retrofit, Crashlytics, Gson etc. 
+* Proficiency on PHP/Node.js for creating and maintaining REST API's.
+
+Job Position: Junior Web Developer
+Requirements for Web Developer are:
+
+* Intermediate skills on JavaScript (ES6), PHP (Laravel)/Node.js (Express).
+* Basic knowledge on Angular.js.
+* Good understanding on PWA .
+
+Precedence will be given for: 
+* Self-developed apps in Play store/Appstore or websites. (mention that link in CV).
+* Aesthetic design sense for UI/UX development.
+* Prior knowledge on Linux(Ubuntu), Firebase, MySQL, Mongo dB, Google Cloud and Google CDN.
+
+Salary: 30K BDT (For both position)
+
+Our offerings:
+
+* Ample opportunities and flexibilities to develop your skills on Javascript, Kotlin, PHP, Java, Mongodb, Google Cloud and plenty of other technologies.
+
+* Contributing to unique product ideas as well as implement and test them in real time.
+
+* Observations and learning of the mechanism of a startup economy close at hand.
+
+Required Experience : 0 to 1 years
+Weekend : Friday
+Workday Lunch : In premises 
+
+Our company culture is of utmost importance to us. We are looking for people who have great team spirit, unbeatable passion and genuine interest on latest technological trend. As we are a young startup that focuses on building powerful, scalable and stylish social interactive platform, you will be presented with true opportunities to make real impact through your prestigious work.
